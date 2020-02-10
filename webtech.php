@@ -7,6 +7,6 @@
   <body>
     <?php echo "yoooo"; ?>
     <h1>Hallo</h1>
-    <p>I like big bitts and I cannot lie</p>
+    <p>Celia du Grüsel</p>
   </body>
 </html>
